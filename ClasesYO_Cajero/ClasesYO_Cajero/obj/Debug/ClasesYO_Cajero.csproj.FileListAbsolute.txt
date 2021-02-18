@@ -1,0 +1,7 @@
+C:\Users\cstee\source\repos\ClasesYO_Cajero\ClasesYO_Cajero\bin\Debug\ClasesYO_Cajero.exe.config
+C:\Users\cstee\source\repos\ClasesYO_Cajero\ClasesYO_Cajero\bin\Debug\ClasesYO_Cajero.exe
+C:\Users\cstee\source\repos\ClasesYO_Cajero\ClasesYO_Cajero\bin\Debug\ClasesYO_Cajero.pdb
+C:\Users\cstee\source\repos\ClasesYO_Cajero\ClasesYO_Cajero\obj\Debug\ClasesYO_Cajero.csprojAssemblyReference.cache
+C:\Users\cstee\source\repos\ClasesYO_Cajero\ClasesYO_Cajero\obj\Debug\ClasesYO_Cajero.csproj.CoreCompileInputs.cache
+C:\Users\cstee\source\repos\ClasesYO_Cajero\ClasesYO_Cajero\obj\Debug\ClasesYO_Cajero.exe
+C:\Users\cstee\source\repos\ClasesYO_Cajero\ClasesYO_Cajero\obj\Debug\ClasesYO_Cajero.pdb

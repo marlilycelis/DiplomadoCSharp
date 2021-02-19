@@ -1,0 +1,6 @@
+C:\Users\308\source\repos\ClasesObjetosHerencia\bin\Debug\ClasesObjetosHerencia.exe.config
+C:\Users\308\source\repos\ClasesObjetosHerencia\bin\Debug\ClasesObjetosHerencia.exe
+C:\Users\308\source\repos\ClasesObjetosHerencia\bin\Debug\ClasesObjetosHerencia.pdb
+C:\Users\308\source\repos\ClasesObjetosHerencia\obj\Debug\ClasesObjetosHerencia.csprojAssemblyReference.cache
+C:\Users\308\source\repos\ClasesObjetosHerencia\obj\Debug\ClasesObjetosHerencia.exe
+C:\Users\308\source\repos\ClasesObjetosHerencia\obj\Debug\ClasesObjetosHerencia.pdb
